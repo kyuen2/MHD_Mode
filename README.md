@@ -24,7 +24,7 @@ where  <img src="https://latex.codecogs.com/svg.image?\delta&space;\phi&space;=&
 
 The community has realized a few decades ago that this formula is not that accurate. Earlier people inserts a f_0 term :
 
-<img src="https://latex.codecogs.com/svg.image?B=\textbf{{\color{DarkOrange}&space;f_0}}&space;\sqrt{4\pi\rho}\frac{\delta&space;v_{LOS}}{\delta&space;\phi_{POS}}" title="https://latex.codecogs.com/svg.image?B=\textbf{{\color{DarkOrange} f_0}} \sqrt{4\pi\rho}\frac{\delta v_{LOS}}{\delta \phi_{POS}}" />
+<img src="https://latex.codecogs.com/svg.image?B={\color{DarkOrange}&space;f_0}&space;\sqrt{4\pi\rho}\frac{\delta&space;v_{LOS}}{\delta&space;\phi_{POS}}" title="https://latex.codecogs.com/svg.image?B={\color{DarkOrange} f_0} \sqrt{4\pi\rho}\frac{\delta v_{LOS}}{\delta \phi_{POS}}" />
 
 which this f_0 term is traditionally assumed to be a constant of value 0.5-2.
 
