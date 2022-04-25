@@ -26,14 +26,14 @@ The community has realized a few decades ago that this formula is not that accur
 
 <img src="https://latex.codecogs.com/svg.image?B={\color{DarkOrange}&space;f_0}&space;\sqrt{4\pi\rho}\frac{\delta&space;v_{LOS}}{\delta&space;\phi_{POS}}" title="https://latex.codecogs.com/svg.image?B={\color{DarkOrange} f_0} \sqrt{4\pi\rho}\frac{\delta v_{LOS}}{\delta \phi_{POS}}" />
 
-which this f_0 term is traditionally assumed to be a constant of value 0.5-2. Unfortunately, the community identifies more problems recently, the following list is not exhaustive:
-- **Cho & Yoo 2016**: The f_0 constant is a function of number of independent turbulent eddies along the line of sight. In short, they replace <img src="https://latex.codecogs.com/svg.image?\delta&space;v" title="https://latex.codecogs.com/svg.image?\delta v" /> to <img src="https://latex.codecogs.com/svg.image?\delta&space;C&space;" title="https://latex.codecogs.com/svg.image?\delta C " />, the dispersion of velociy centroid.
-- **Skaliais & Tassis 2021, Skaliais et.al 2021**: The form of the DCF equation is suggested to be wrong when compressibility comes into play. In short they suggest an alternative formula <img src="https://latex.codecogs.com/svg.image?B=\sqrt{2\pi\rho}\frac{\delta&space;v_{LOS}}{\sqrt{\delta&space;\phi_{POS}}" title="https://latex.codecogs.com/svg.image?B=\sqrt{2\pi\rho}\frac{\delta v_{LOS}}{\sqrt{\delta \phi_{POS}}" />
-- **Lazarian, Yuen, Pogosyan 2022a (arXiv: 2204.09731, ApJ in production)**: f_0 depends on a lot of things, including the Alfvenic Mach number, the line of sight angle (the angle between magnetic field and line of sight), and the fraction of modes.
+which this f_0 term is traditionally assumed to be a constant of value 0.5-2. Unfortunately, the community identifies more problems recently, the following list is not exhaustive and also not mutually exclusive:
+- **Cho & Yoo 2016**: The f_0 constant is a function of number of independent turbulent eddies along the line of sight. In short, they replace <img src="https://latex.codecogs.com/svg.image?\delta&space;v" title="https://latex.codecogs.com/svg.image?\delta v" /> to delta C, the dispersion of velociy centroid.
+- **Skaliais & Tassis 2021, Skaliais et.al 2021**: The form of the DCF equation is suggested to be wrong when compressibility comes into play. In short they suggest an alternative formula <img src="https://latex.codecogs.com/svg.image?B=\sqrt{2\pi\rho}\frac{\delta&space;v_{LOS}}{\sqrt{\delta&space;\phi_{POS}}" title="https://latex.codecogs.com/svg.image?B=\sqrt{2\pi\rho}\frac{\delta v_{LOS}}{\sqrt{\delta \phi_{POS}}" />.
+- **Lazarian, Yuen, Pogosyan 2022a (arXiv: 2204.09731, ApJ in production)**: A fundamentalist approach in deriving f_0 according to the theory of MHD turbulence. Main result is **f_0 depends on a lot of things**, including the Alfvenic Mach number, the line of sight angle (the angle between magnetic field and line of sight), and the fraction of modes.
 
 ## So how to start with?
 
-My suggestion to the readers is to go to the templates that I included in this repository. 
+My suggestion to the readers is to go to the templates that I included in this repository. The templates will help you walk through the ideas on how to perform magnetic field strength estimations based on the considerations from different authors in the community.
 
 
 
