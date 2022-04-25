@@ -12,7 +12,7 @@ The estimation of magentic field strength properties relies the detailed knowled
 
 The Davis (1951)- Chandrasekhar-Fermi (1953) method is one of the most important method in estimating the magnetic field strength in interstellar media (ISM). In short, considering ideal Alfven-wave turbulence with energy partition between kinetic and magnetic field:
 
-![equation](https://latex.codecogs.com/svg.image?\frac{1}{2}\rho\delta&space;v^2&space;\approx&space;\frac{\delta&space;B^2}{8\pi})
+<img src="https://latex.codecogs.com/png.image?\dpi{110}\frac{1}{2}\rho&space;\delta&space;v^2&space;=&space;\frac{\delta&space;B^2}{8\pi}" title="https://latex.codecogs.com/png.image?\dpi{110}\frac{1}{2}\rho \delta v^2 = \frac{\delta B^2}{8\pi}" />
 
 which leads to a handy formula for magnetic field strength estimation:
 
