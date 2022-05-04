@@ -1,10 +1,10 @@
 # MHD_Mode
 
-Ka Ho Yuen @ UW Madison, last updated Apr 25, 2022.
+Ka Ho Yuen @ UW Madison, last updated May 04, 2022.
 
 **TL;DR**: The main Code used in Yuen et.al (2022, codename "leakage"), Lazarian, Yuen, Pogosyan (2022ab, codename "DMA,MM2"). 
 
-Credits: Equations are rendered via  https://www.codecogs.com/latex/eqneditor.php 
+Credits: Equations are rendered via  https://www.codecogs.com/latex/eqneditor.php. **if you dont see the equations, F5 a few more times will help**
 
 ## What is this repository about?
 
