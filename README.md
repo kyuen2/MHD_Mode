@@ -37,6 +37,8 @@ which this f_0 term is traditionally assumed to be a constant of value 0.5-2. Un
 
 My suggestion to the readers is to go to the templates that I included in this repository. The templates will help you walk through the ideas on how to perform magnetic field strength estimations based on the considerations from different authors in the community.
 
+## Appendix
+
 e.g. How SPA works https://github.com/kyuen2/MHD_Mode/blob/main/Zhang2020.ipynb
 
 
