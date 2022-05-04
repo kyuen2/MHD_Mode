@@ -6,6 +6,8 @@ Ka Ho Yuen @ UW Madison, last updated May 04, 2022.
 
 Credits: Equations are rendered via  https://www.codecogs.com/latex/eqneditor.php. **if you dont see the equations, F5 a few more times will help**
 
+p.s. If you cannot find any code, go here: https://github.com/kyuen2/khyuen-VGT
+
 ## What is this repository about?
 
 The estimation of magentic field strength properties relies the detailed knowledge of MHD modes. However, there are not much information aside from reading papers. This repository aims at providing the minimal information for you to kickstart with the analysis of B-field strengths in MHD turbulence.
@@ -34,6 +36,8 @@ which this f_0 term is traditionally assumed to be a constant of value 0.5-2. Un
 ## So how to start with?
 
 My suggestion to the readers is to go to the templates that I included in this repository. The templates will help you walk through the ideas on how to perform magnetic field strength estimations based on the considerations from different authors in the community.
+
+e.g. How SPA works https://github.com/kyuen2/MHD_Mode/blob/main/Zhang2020.ipynb
 
 
 
