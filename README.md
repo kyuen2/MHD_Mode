@@ -6,7 +6,7 @@ Ka Ho Yuen @ UW Madison, last updated May 04, 2022.
 
 Credits: Equations are rendered via  https://www.codecogs.com/latex/eqneditor.php. **if you dont see the equations, F5 a few more times will help**
 
-p.s. If you cannot find any code, go here: https://github.com/kyuen2/khyuen-VGT
+p.s. If you cannot find some packages, go here: https://github.com/kyuen2/khyuen-VGT
 
 ## What is this repository about?
 
